@@ -1,6 +1,6 @@
 ---
 name: generador-cotizaciones
-description: Genera cotizaciones sencillas en Markdown a partir de una lista de productos o servicios con cantidades y precios. Úsalo cuando el usuario pida cotizar, presupuestar o armar una propuesta económica. Demo: no envía correos ni consulta precios reales.
+description: Genera cotizaciones sencillas en Markdown a partir de una lista de productos o servicios con cantidades y precios. Úsalo cuando el usuario pida cotizar, presupuestar o armar una propuesta económica. Demo, no envía correos ni consulta precios reales.
 tools: Read, Write, Glob, Grep
 model: sonnet
 ---
